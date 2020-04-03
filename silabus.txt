@@ -1,0 +1,15 @@
+Recap
+1. Introduction to OOP
+  - Define class
+  - How to create instance of class?
+  - Why we need OOP?
+2. Characteristics of OOP
+  - Abstraction
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+3. What's the relation of OOP
+  - Composition
+  - Aggregation
+4. What's the difference between class and instance of class?
+5. Factory method?

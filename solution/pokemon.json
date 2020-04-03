@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "name": "Bulbasaur",
+    "type": "grass",
+    "_rarity": "starter"
+  },
+  {
+    "_id": 2,
+    "name": "Pikachu",
+    "type": "lightning",
+    "_rarity": "starter"
+  },
+  {
+    "_id": 3,
+    "name": "Machop",
+    "type": "fighting",
+    "_rarity": "normal"
+  },
+  {
+    "_id": 4,
+    "name": "Celebi",
+    "type": "grass",
+    "_rarity": "mythic"
+  },
+  {
+    "_id": 5,
+    "name": "Charmander",
+    "type": "fire",
+    "_rarity": "normal"
+  }
+]
